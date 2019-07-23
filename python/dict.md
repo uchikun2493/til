@@ -3,7 +3,7 @@
 
 ## dict型のforループ処理
 
-![Pythonの辞書（dict）のforループ処理（keys, values, items）](https://note.nkmk.me/python-dict-keys-values-items/)
+[Pythonの辞書（dict）のforループ処理（keys, values, items）](https://note.nkmk.me/python-dict-keys-values-items/)
 
 - 例では以下のdict型のデータを使う
 ```
