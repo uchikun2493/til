@@ -1,15 +1,19 @@
+# clone後にリモートリポジトリを変える
+
+https://kde.hateblo.jp/entry/2018/02/18/200459
+
 # リポジトリ名をあとから変更する
 
-## GitHub側の操作
-"対象リポジトリ -> Setting -> Rename"で変更
+- GitHub側の操作
+    - "対象リポジトリ -> Setting -> Rename"で変更
 
 ex.
 ```
 repo_old -> repo_new に変更したとする
 ```
 
-## ローカル側の操作
-対象ディレクトリ -> .git > config
+- ローカル側の操作
+    - 対象ディレクトリ -> .git > config
 
 ```
 [remote "origin"]
