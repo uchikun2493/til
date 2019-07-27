@@ -15,3 +15,9 @@
     - 紹介サイト様
         - [英語の文法チェックに！秀逸な英文校正ツール「Grammarly（グラマリー）」の使い方](http://lifeiscolourful.hatenablog.com/entry/grammarly-n-writing)
     - 無料版と有料版があるけど有料は強そう(小並感)
+
+
+# 教えてもらったおすすめサイト
+[みらい翻訳](https://miraitranslate.com/trial/)
+
+
