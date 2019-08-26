@@ -81,3 +81,7 @@ git rebase BN
 git diff BN1 BN2
 ```
 
+- プルリクエスト用のブランチを持ってきて検証しよう
+
+https://qiita.com/tarr1124/items/d807887418671adbc46f
+
