@@ -17,3 +17,8 @@ let g:yankring_n_keys = 'Y D'
 " let g:yankring_n_keys = 'Y D x X'
 ```
 
+## vimrcにifを入れるとバカ遅くなった
+
+vimrcにlinuxかmacかで条件分岐させてたけど何100msレベルで遅くなるのでやめよう
+
+
